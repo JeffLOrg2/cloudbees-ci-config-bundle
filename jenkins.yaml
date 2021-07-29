@@ -7,7 +7,7 @@ cloudbees-slack-integration:
       jenkins: "jefflibby"
       optedIn: true
       scmId: "jefflibby"
-      slack: "REPLACE_USER_EMAIL"
+      slack: "jlibby@lakeshorelearning.com"
       slackWorkspace: "T010A455W77"
 cloudbees-pipeline-policies:
   config:
